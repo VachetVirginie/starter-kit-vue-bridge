@@ -120,7 +120,7 @@
 
 			<DownloadBtn
 				:file-promise="getFileFromApi"
-				:vuetify-options="vuetifyOptions"
+				:vuetify-options="vuetifyOptions2"
 				:outlined="false"
 				tile
 				color="white"
@@ -221,7 +221,7 @@ export default defineComponent({
 				'Profil',
 				'Paramètres'
 			],
-			vuetifyOptions: {
+			vuetifyOptions2: {
 				menu: {
 					location: 'bottom center',
 					offset: 2
