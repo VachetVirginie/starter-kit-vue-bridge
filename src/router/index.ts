@@ -155,11 +155,6 @@ const routes = [
 		component: () => import('@/views/filtersSidebar/FilterSideBarPage.vue')
 	},
 	{
-		path:'/filter-side-bar',
-		name:'Filter Side Bar',
-		component: () => import('@/views/filtersSidebar/FilterSideBarPage.vue')
-	},
-	{
 		path: '/footer-wrapper',
 		name: 'footer-wrapper',
 		component: () => import('@/views/footerWrapper/FooterWrapperPage.vue')
