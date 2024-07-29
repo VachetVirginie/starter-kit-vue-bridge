@@ -25,7 +25,7 @@
 	},
 	"dependencies": {
 		"@cnamts/design-tokens": "2.16.6",
-		"@cnamts/synapse-bridge": "1.4.9-alpha.0",
+		"@cnamts/synapse-bridge": "1.4.10-alpha.0",
 		"@mdi/js": "7.2.96",
 		"@nuxtjs/i18n": "8.0.0-rc.4",
 		"axios": "^1.5.0",

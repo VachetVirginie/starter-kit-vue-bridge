@@ -51,7 +51,7 @@ export default defineNuxtConfig({
 			Components({ dts: true, dirs: ['~/components', 'src/components'] }),
 		],
 	},
-	css: ['@cnamts/synapse-bridge/style.css', '~/assets/styles/index.scss'],
+	css: ['@cnamts/synapse-bridge/style.css'],
 	dayjs: {
 		locales: ['fr'],
 		plugins: ['relativeTime', 'utc', 'timezone'],
