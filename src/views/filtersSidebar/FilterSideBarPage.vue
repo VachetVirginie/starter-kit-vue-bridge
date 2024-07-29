@@ -1,4 +1,5 @@
 <template>
+	{{ filters }}
 	<FiltersSideBar v-model="filters">
 		<template #name="{ attrs }">
 			<VTextField

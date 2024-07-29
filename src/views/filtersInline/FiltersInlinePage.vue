@@ -1,4 +1,5 @@
 <template>
+	{{ filters }}
 	<FiltersInline v-model="filters">
 		<template #name="{ attrs }">
 			<VTextField
