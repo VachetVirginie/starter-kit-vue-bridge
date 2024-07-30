@@ -24,7 +24,7 @@
 
 	<LogoBrandSection home-href="http://www.google.fr">
 		<img
-			src="@/pages/assets/images/logo-msa.svg"
+			src="@/assets/images/logo-msa.svg"
 			alt="MSA : Santé, Famille, Retraite, Services"
 			width="115px"
 			height="52px"
